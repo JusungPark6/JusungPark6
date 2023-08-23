@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software.
 - 🎓 &nbsp; Studying Computer Science and Neuroscience with an English minor at Dartmouth College.
 - 💼 &nbsp; Incoming Backend Developer Intern at Kisi / Research Intern at Dartmouth College / Teaching Assistant for the CS Department.
-- ☀️ &nbsp; Looking for Software Engineering or Technical Analyst Internship Positions for Summer 2024
+- ☀️ &nbsp; Looking for Software Engineering, Quantitative Finance, or Technical Analyst Internship Positions for Summer 2024
 - 🌱 &nbsp; Learning more about Fintech, Systems Design, Artificial Intelligence, and Private Equity.
 - ✍️ &nbsp; Pursuing hip-hop freestyle dance, chess, cooking as additional interests.
 
