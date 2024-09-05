@@ -5,8 +5,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software.
 - 🎓 &nbsp; Studying Computer Science and Neuroscience with an English minor at Dartmouth College.
-- 💼 &nbsp; Incoming Software Engineer Intern at Zscaler / Machine Learning Researcher at Tuck School of Business / Backend Developer Intern at Kisi / Research Intern at Dartmouth College / Teaching Assistant for the CS Department.
-- ☀️ &nbsp; Looking for Software Engineering, Quantitative Finance, or Technical Analyst Internship Positions for Summer 2024
+- 💼 &nbsp; Quantitative Developer at Quantfarming / Software Engineer Intern at Zscaler / Machine Learning Researcher at Tuck School of Business / Backend Developer Intern at Kisi / Research Intern at Dartmouth College / Teaching Assistant for the CS Department.
+- ☀️ &nbsp; Looking for Software Engineering, Quantitative Finance, or Technical Analyst Full Time Positions for Summer 2025
 - 🌱 &nbsp; Learning more about Fintech, Systems Design, Artificial Intelligence, and Algorithmic Trading.
 - ✍️ &nbsp; Pursuing hip-hop freestyle dance, chess, cooking as additional interests.
 
@@ -42,7 +42,6 @@
 - Hosting &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 - IDEs &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
